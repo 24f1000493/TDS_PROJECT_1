@@ -1,0 +1,14 @@
+# Ignore directories
+discourse_json/
+tds_pages/
+__pycache__/
+venv/
+.venv/
+
+# Ignore files
+.env
+preprocess.py
+*.pyc
+.DS_Store
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
